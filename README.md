@@ -1,2 +1,2 @@
 # DataManagementMBG
-A repository with small helping tools for general data management. 
+A repository with helping tools for general data management. 
